@@ -1,0 +1,27 @@
+cat << 'EOF' > group_poem.txt
+Roses are red,
+Violets are blue,
+Programming is fun,
+And teamwork is too.
+EOF
+Pixels are bright,
+Data flows through,
+Building code is fun,
+But collaborating with you is better!
+poem_content = """Pixels are bright,
+Data flows through,
+Building code is fun,
+But collaborating with you is better!"""
+nano group_poem.txt
+Pixels are bright,
+Data flows through,
+Building code is fun,
+But collaborating with you is better!
+cat << 'EOF' > group_poem_ai.txt
+Pixels are bright,
+Data flows through,
+Building code is fun,
+But collaborating with you is better!
+EOF
+
+
