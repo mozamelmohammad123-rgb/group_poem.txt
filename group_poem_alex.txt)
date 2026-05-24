@@ -22,6 +22,11 @@ Pixels are bright,
 Data flows through,
 Building code is fun,
 But collaborating with you is better!
+git init
+git add group_poem_final.txt
+git commit -m "Add final collaborative group poem"
+git branch -M main
+git push -u origin main
 EDF
 
 
